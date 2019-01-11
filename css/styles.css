@@ -1,1 +1,22 @@
 
+
+.text {
+  float: right;
+  text-decoration-color:
+}
+p .text1 {
+  float: right;
+}
+
+body {
+  background-image: url("../img/bgphoto.jpeg");
+
+  background-size: auto;
+
+}
+.my-photo {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: black;
+}
