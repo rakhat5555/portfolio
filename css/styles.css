@@ -1,22 +1,19 @@
 
 
 .text {
+  
+
 
 
 }
-p .text1 {
-  float: center;
-}
+
 
 body {
   background-image: url("../img/bgphoto.jpg");
-
-
   background-repeat: no-repeat;
 }
 .my-photo {
   margin: 12px;
-  border: 2px solid blue;
-  padding: 4px;
-  background-color: black;
+  border: 1px solid blue;
+  padding: 2px;
 }
