@@ -15,7 +15,7 @@
     top: 50%;
     left: 50%;
 font-weight: bold;
-  color: blackboard ;
+ ;
 }
 
 
@@ -26,6 +26,16 @@ body {
 }
 .my-photo {
   margin: 12px;
-  border: 1px solid blue;
   padding: 2px;
+}
+.blockquote{
+  font-style: italic;
+  background-color:  #ffffe6;
+}
+.nav {
+  font-size: 25px;
+}
+.text {
+  font-weight: bold;
+  text-align: center;
 }
