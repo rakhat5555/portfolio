@@ -1,11 +1,23 @@
 
 
-.text {
-  text-align: center;
 
-
-
+.hero-image {
+  background-image: url("../img/banner.jpg");
+  height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
 }
+.hero-text {
+  text-align: center;
+  ;
+    top: 50%;
+    left: 50%;
+font-weight: bold;
+  color: blackboard ;
+}
+
 
 
 body {
