@@ -1,7 +1,7 @@
 
 
 
-.hero-image {
+.hero-image , con {
   background-image: url("../img/banner.jpg");
   height: 100%;
  background-position: center;
@@ -27,8 +27,9 @@ body {
   padding: 2px;
 }
 .blockquote{
-  font-style: italic;
-  background-color:  #ffffe6;
+  font-style: oblique;
+  color: white;
+  background: green;
 }
 .nav {
   font-size: 25px;
@@ -44,5 +45,20 @@ p {
 }
 .container {
   background-image: url("../img/bgphoto1jpg.jpg");
-  background-repeat: no-repeat;
+  height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+}
+h3{
+  color: green;
+}
+.container-fluid {
+  margin: 12px;
+ border: 2px solid green;
+ padding: 4px;
+}
+.bg-info {
+   border: 2px solid green;
 }
